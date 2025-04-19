@@ -1,2 +1,4 @@
 # ISMS-Implementation-Project
-ISMS Implementation with ISO/IEC 27001:2022
+## Project Documentation
+The complete project documentation is available here: [Folder Link](https://drive.google.com/drive/folders/1hvkWMeKUKG15oOH_AVvcfP2o5RVdleMz?usp=drive_link)
+
